@@ -22,10 +22,14 @@ __2.1 Программный интерфейс__
 __2.2 Интерфейс пользователя__
 
 Клиентское окно терминала:
-![S](https://github.com/FukaTamashi/server_project/blob/master/Снимок%20экрана%20от%202023-10-26%2003-54-31.png)
+
+
+![S](https://github.com/FukaTamashi/server-project/blob/master/images/%D0%9E%D0%BA%D0%BD%D0%BE%20%D0%BA%D0%BB%D0%B8%D0%BD%D1%82%D0%B0.png)
 
 Серверное окно терминала:
-![S](https://github.com/FukaTamashi/server_project/blob/master/Снимок%20экрана%20от%202023-10-26%2004-28-11.png)
+
+
+![S](https://github.com/FukaTamashi/server-project/blob/master/images/%D0%9E%D0%BA%D0%BD%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0.png)
 
 __2.3 Характеристика пользователей__
 
